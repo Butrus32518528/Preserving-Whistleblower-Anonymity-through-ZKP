@@ -1,0 +1,1600 @@
+Block Number: 1
+Sensitivity: High
+Difficulty Level: 5
+Data: 85ad98c5fd98e504d3878571409f64cc86eb66929d873d0e7c6e047ee9beb946
+Nonce: 1271833
+Previous Hash: 0
+New Hash: 00000bc30b0cfca65996f97c8709208f3fbe0d35e0bc9330d30d4353dadc0079
+----------------------------------------
+Block Number: 2
+Sensitivity: Low
+Difficulty Level: 3
+Data: b27660962cfc279c024469c4b693f4d992912e97a6dd5d0bcb579c0861ea8cb4
+Nonce: 3192
+Previous Hash: 00000bc30b0cfca65996f97c8709208f3fbe0d35e0bc9330d30d4353dadc0079
+New Hash: 00030403ef6ce0dbd78bca85e7e6353fd7abdcd2fb9d5574f53b4243ea8263df
+----------------------------------------
+Block Number: 3
+Sensitivity: High
+Difficulty Level: 5
+Data: cf3bf4ce4d9bfc01c5970d65360dbe8dd38557b40e0671177b1e4f9f806ab0ac
+Nonce: 857963
+Previous Hash: 00030403ef6ce0dbd78bca85e7e6353fd7abdcd2fb9d5574f53b4243ea8263df
+New Hash: 000005d9d7e3554190d39c1a6b3ff692643b05f6d5d35ca31ed50702a393e789
+----------------------------------------
+Block Number: 4
+Sensitivity: Low
+Difficulty Level: 3
+Data: 25c176f75c0d5c13c2223478da827557ebd50fddc88c35c8654f02cbd827e439
+Nonce: 965
+Previous Hash: 000005d9d7e3554190d39c1a6b3ff692643b05f6d5d35ca31ed50702a393e789
+New Hash: 0003c3f87ddbc22550ae503686c42339580ccdc8ad12d2a9f83e5e5ff49b1fac
+----------------------------------------
+Block Number: 5
+Sensitivity: High
+Difficulty Level: 5
+Data: 0ab1416c32279787d2eeedf3bd5c7dc1ea9312f8e4845af24fd4fae6886b4a3b
+Nonce: 4139006
+Previous Hash: 0003c3f87ddbc22550ae503686c42339580ccdc8ad12d2a9f83e5e5ff49b1fac
+New Hash: 0000029e769c2375deafbcc7e0016ff407015a1dd06fedbbb4bb1659165b10f7
+----------------------------------------
+Block Number: 6
+Sensitivity: High
+Difficulty Level: 5
+Data: 7dae7a06adbd4a3c7ff030682c905f0c0f25589b63a05980b860ce6caaa02b0b
+Nonce: 761962
+Previous Hash: 0000029e769c2375deafbcc7e0016ff407015a1dd06fedbbb4bb1659165b10f7
+New Hash: 00000a6ae46927cbc3ebb293eb9b0a1b52b1f29e05ff0c679bd5d97ecd3b82b5
+----------------------------------------
+Block Number: 7
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0735f03d4f0ef7f4984cf1c382fca7b323179df9b9964ed842aeff3009ea9392
+Nonce: 4809
+Previous Hash: 00000a6ae46927cbc3ebb293eb9b0a1b52b1f29e05ff0c679bd5d97ecd3b82b5
+New Hash: 0000942a7fad418a4e5bce7fec77c9e8e9f71ffe9bc2f68e567b860aa58bff67
+----------------------------------------
+Block Number: 8
+Sensitivity: High
+Difficulty Level: 5
+Data: 78a5362d7dd3094b3253338e841702762eeeac5db1f12b78e8d37b69be3faa5f
+Nonce: 569763
+Previous Hash: 0000942a7fad418a4e5bce7fec77c9e8e9f71ffe9bc2f68e567b860aa58bff67
+New Hash: 000005fd7cdb8283fdbbb2b11bb256676c2540983959c33aadd9fe365b499022
+----------------------------------------
+Block Number: 9
+Sensitivity: Medium
+Difficulty Level: 4
+Data: b376b906db5db22ba7b1e4a69ecdbba29c9d72c5aeeba90864bd41ec77f455f5
+Nonce: 36716
+Previous Hash: 000005fd7cdb8283fdbbb2b11bb256676c2540983959c33aadd9fe365b499022
+New Hash: 0000d4ae8d17e090e8e6aaac04596c4236599367bcbcc788a34b3b6e8c928834
+----------------------------------------
+Block Number: 10
+Sensitivity: Medium
+Difficulty Level: 4
+Data: fd70dd17785e89b686d13dc11e67cc8b65993a2d50fb0e43a97435a04f55a8ec
+Nonce: 57814
+Previous Hash: 0000d4ae8d17e090e8e6aaac04596c4236599367bcbcc788a34b3b6e8c928834
+New Hash: 000033e926468d25bc4d0af4024705b761c009d3cca8989a15cb7d777476d09a
+----------------------------------------
+Block Number: 11
+Sensitivity: Low
+Difficulty Level: 3
+Data: e76616ff921cdf45076ee2137cb5138328976add8a8249fc7b52c4b57b1623b4
+Nonce: 8610
+Previous Hash: 000033e926468d25bc4d0af4024705b761c009d3cca8989a15cb7d777476d09a
+New Hash: 000c73f00d808fc68041e37ec3249e5d9b1f1f85ad2ea8d33f142bbaa524684c
+----------------------------------------
+Block Number: 12
+Sensitivity: High
+Difficulty Level: 5
+Data: 172ed9a13699a1deea9bb9080b9aa043b8dd1dd8b595d90499830a044991a58a
+Nonce: 1172380
+Previous Hash: 000c73f00d808fc68041e37ec3249e5d9b1f1f85ad2ea8d33f142bbaa524684c
+New Hash: 00000294a2a6ab77be39a1865012f4848789a6063e364a94cccf0e6b32054be6
+----------------------------------------
+Block Number: 13
+Sensitivity: High
+Difficulty Level: 5
+Data: 68bd5930b30931b3b5882869932f1437c73aa746c2f320c6f21172ec689778f4
+Nonce: 672947
+Previous Hash: 00000294a2a6ab77be39a1865012f4848789a6063e364a94cccf0e6b32054be6
+New Hash: 00000e1c6e32bbdca565ceab58952e24e40ec40025450b7c7ee01adc2091869f
+----------------------------------------
+Block Number: 14
+Sensitivity: High
+Difficulty Level: 5
+Data: 0afd4600e57b7bbc930c97c43a2a215a1de5b828c1322632afb4bb125e78f052
+Nonce: 1362494
+Previous Hash: 00000e1c6e32bbdca565ceab58952e24e40ec40025450b7c7ee01adc2091869f
+New Hash: 000006f17a292b446f41bcb355c26a773cc9639e60f9e599dd165b2448755351
+----------------------------------------
+Block Number: 15
+Sensitivity: High
+Difficulty Level: 5
+Data: 0fb7ee2687b42a7cc8a471d236339c3504055f79159298d5cbac8491e7b1a454
+Nonce: 227498
+Previous Hash: 000006f17a292b446f41bcb355c26a773cc9639e60f9e599dd165b2448755351
+New Hash: 0000095e058dd816bb0088a304e1e577f000b72890ef8c5d08f458cc5308f0fb
+----------------------------------------
+Block Number: 16
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 5c372f00db5227bb5eaf309bcb5c942bf84e67f3f820cb029f4b8075d14c6aa9
+Nonce: 26935
+Previous Hash: 0000095e058dd816bb0088a304e1e577f000b72890ef8c5d08f458cc5308f0fb
+New Hash: 00008e72f0f36ab64045e4da5940f196cb760f5165c9a8b5570a7cfb34a0e9a1
+----------------------------------------
+Block Number: 17
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 8ddd0016ae938aafa848808f202d61fe8ad6263e71387faa6bfbba12655df647
+Nonce: 43775
+Previous Hash: 00008e72f0f36ab64045e4da5940f196cb760f5165c9a8b5570a7cfb34a0e9a1
+New Hash: 0000316f408eebf8a694093df1965b239a773d5ecbaae54eb50a16f08ea2286a
+----------------------------------------
+Block Number: 18
+Sensitivity: High
+Difficulty Level: 5
+Data: ed7040ad31b40f7e1cb50ad6123e85e50ec5707e3dc7674a5f7a1a9626a101c3
+Nonce: 334868
+Previous Hash: 0000316f408eebf8a694093df1965b239a773d5ecbaae54eb50a16f08ea2286a
+New Hash: 00000296cbd7cc7d003c2c0dfef61fcb107167e76555f39c8c847ddd086c1434
+----------------------------------------
+Block Number: 19
+Sensitivity: Low
+Difficulty Level: 3
+Data: 99ec7d08874bbadb32b666c2e375868ec0c9133b5f42249b857b9913efe66487
+Nonce: 854
+Previous Hash: 00000296cbd7cc7d003c2c0dfef61fcb107167e76555f39c8c847ddd086c1434
+New Hash: 000eb28fd84575a0686d54a7b8a97d1f436534cb97204387bca043caade40900
+----------------------------------------
+Block Number: 20
+Sensitivity: Low
+Difficulty Level: 3
+Data: 653bddb814026569ec3104c95e9b0fed9504caccfbc2ffa37a8f81c6f5661e03
+Nonce: 10228
+Previous Hash: 000eb28fd84575a0686d54a7b8a97d1f436534cb97204387bca043caade40900
+New Hash: 000891f4b64c5aa7e66caa780469eba3a4c7489ff3bef6fd9088f0cce29aae0e
+----------------------------------------
+Block Number: 21
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 3c5633c2a583d2c12ecbce4cea1a22a1f5d5e049f5f877eaf3c36a9a4e6a9f69
+Nonce: 193481
+Previous Hash: 000891f4b64c5aa7e66caa780469eba3a4c7489ff3bef6fd9088f0cce29aae0e
+New Hash: 0000f50051d04b3b68c1b4f4058b5d21c6c0c024c546b1fa50567f99edf62949
+----------------------------------------
+Block Number: 22
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 746b6d2100eaf280e8c9b8f4d27a2d17848f81d812b59408981ae1323caf66bb
+Nonce: 65319
+Previous Hash: 0000f50051d04b3b68c1b4f4058b5d21c6c0c024c546b1fa50567f99edf62949
+New Hash: 0000f7878310bb4eda947a85d6dbbc00446242ef8091ddb84610bbf27ce83d88
+----------------------------------------
+Block Number: 23
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 5fd71d4b01f25b6a6a51d35ddffb013101e7c9151dd8a18e69dd69cbebfd7216
+Nonce: 37461
+Previous Hash: 0000f7878310bb4eda947a85d6dbbc00446242ef8091ddb84610bbf27ce83d88
+New Hash: 0000feb41c06b32a9586c220a876d305c88e63b175d4a8f8423c2219f164e784
+----------------------------------------
+Block Number: 24
+Sensitivity: High
+Difficulty Level: 5
+Data: 4ef4d66af77f0d24741674ef6ebe2d81a2fba5de71d374fed5a44668c125e477
+Nonce: 288651
+Previous Hash: 0000feb41c06b32a9586c220a876d305c88e63b175d4a8f8423c2219f164e784
+New Hash: 000009c8948bff1e659c1876c22c0124f67a4b05c4810e44a0e953f805f5cb9e
+----------------------------------------
+Block Number: 25
+Sensitivity: High
+Difficulty Level: 5
+Data: 1dfa7f3e269386892166cc9f4e931b87e284769d43de561d4868041660aa0ef5
+Nonce: 549692
+Previous Hash: 000009c8948bff1e659c1876c22c0124f67a4b05c4810e44a0e953f805f5cb9e
+New Hash: 000001425fd72076b2484a621249ac188c2cf99a8317e506467d70ef33e78858
+----------------------------------------
+Block Number: 26
+Sensitivity: High
+Difficulty Level: 5
+Data: 81b64d08ceae75d5b062f953df98b6ee33000a0423f1c54cb36d405233856de8
+Nonce: 929712
+Previous Hash: 000001425fd72076b2484a621249ac188c2cf99a8317e506467d70ef33e78858
+New Hash: 00000890c804a7f02a32bc59d56ecd2213d1043064db5542676efefa09ab8d84
+----------------------------------------
+Block Number: 27
+Sensitivity: High
+Difficulty Level: 5
+Data: 470963734018505dddd5079c24b835e0dddc4f84db33fb8ba4c6721596a7060e
+Nonce: 2794052
+Previous Hash: 00000890c804a7f02a32bc59d56ecd2213d1043064db5542676efefa09ab8d84
+New Hash: 00000ab2f143e0ce6a541a545f750d452159f5c7b5bf4f9b6156845da799d217
+----------------------------------------
+Block Number: 28
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0923a1a9c3291fab73fa9b0b083a3e1a6dde53a177839313bc76c3f91f35ab3e
+Nonce: 123144
+Previous Hash: 00000ab2f143e0ce6a541a545f750d452159f5c7b5bf4f9b6156845da799d217
+New Hash: 0000f7c836c90a8afcf1878f6241fcffe775f7ce4d00b11bdb38ab44530e1881
+----------------------------------------
+Block Number: 29
+Sensitivity: High
+Difficulty Level: 5
+Data: ef06f6a20a9cbf3c1d6b87d74fe577e7b4692b3f04cf64af9f0b2c74b6e20563
+Nonce: 722516
+Previous Hash: 0000f7c836c90a8afcf1878f6241fcffe775f7ce4d00b11bdb38ab44530e1881
+New Hash: 000008e689c4973fc94e43f828c8c7eb1ee4f600bffb4ec9c65643625e8dc86b
+----------------------------------------
+Block Number: 30
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0ba34a061fc82be0fb4ffdb3220750663e07518820c04377a2572d7ffae332ea
+Nonce: 193576
+Previous Hash: 000008e689c4973fc94e43f828c8c7eb1ee4f600bffb4ec9c65643625e8dc86b
+New Hash: 0000228c0a2cf4d58ab33e9bfc64132f25e901c8a160cee04d160bb28066e90f
+----------------------------------------
+Block Number: 31
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 631afe7530b127f17ebc80567082869c9f96f8c8a02ec84665eb87bd70d270ed
+Nonce: 40012
+Previous Hash: 0000228c0a2cf4d58ab33e9bfc64132f25e901c8a160cee04d160bb28066e90f
+New Hash: 0000b608743667e4484a91cb67ea3b68efe08e94477e4f6781bc67f1283ae0b7
+----------------------------------------
+Block Number: 32
+Sensitivity: High
+Difficulty Level: 5
+Data: 395ad4453703b167364921c9dae75ad2b40e9ea731336dd6c29a270e89a2cd25
+Nonce: 546062
+Previous Hash: 0000b608743667e4484a91cb67ea3b68efe08e94477e4f6781bc67f1283ae0b7
+New Hash: 00000e2993cbdeff1beb12e7fb6822437988be9ceeaf5d2acab2b6cba3f233a1
+----------------------------------------
+Block Number: 33
+Sensitivity: High
+Difficulty Level: 5
+Data: a5fe25e0a6ec5e29e7cef0bf4333cbb677a8eda3b852189aa1dc92341e94a7f0
+Nonce: 59107
+Previous Hash: 00000e2993cbdeff1beb12e7fb6822437988be9ceeaf5d2acab2b6cba3f233a1
+New Hash: 0000035a3f276a137c05a1f070f7859003b480fe300d25adafc4294e85a351d5
+----------------------------------------
+Block Number: 34
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 2f4ad8c85fbc48ccce7b5e66d495faa07213ccf353a3689fc9808564e042738b
+Nonce: 40574
+Previous Hash: 0000035a3f276a137c05a1f070f7859003b480fe300d25adafc4294e85a351d5
+New Hash: 00001f69015c82a2500ea7dfe2e0c4236341f1b440bf0be73e38f7f090054ac0
+----------------------------------------
+Block Number: 35
+Sensitivity: Low
+Difficulty Level: 3
+Data: 59cd6b1c74a01449118f3fc77d441a09c01a8555e94484fb11af81d45ac12627
+Nonce: 3022
+Previous Hash: 00001f69015c82a2500ea7dfe2e0c4236341f1b440bf0be73e38f7f090054ac0
+New Hash: 000f702aa8875301a1189b27e96f29cce061e2bbbcc14ef7a1763769c1065132
+----------------------------------------
+Block Number: 36
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 797bb5c92487c9f43024bbf1195c5ff2693bc938d30b28852a5cd0f65edb780b
+Nonce: 26672
+Previous Hash: 000f702aa8875301a1189b27e96f29cce061e2bbbcc14ef7a1763769c1065132
+New Hash: 0000d41f8c61c3758a6acdd96a95490267faf768722f555d43f5af03ab0cfa66
+----------------------------------------
+Block Number: 37
+Sensitivity: High
+Difficulty Level: 5
+Data: 2c43cebce14a2f8c296d0e5a86fedebea5c3c6657e4b951eb27cf5f16eaaee0c
+Nonce: 42178
+Previous Hash: 0000d41f8c61c3758a6acdd96a95490267faf768722f555d43f5af03ab0cfa66
+New Hash: 0000051615f5924b661ef39ef005e068081c8302adb2dcd6bdf15592081a523e
+----------------------------------------
+Block Number: 38
+Sensitivity: Low
+Difficulty Level: 3
+Data: bd5b5d9347266d6556dfeec15e1f7c07561c5ec815936a2666553bd7d4dd71d1
+Nonce: 5130
+Previous Hash: 0000051615f5924b661ef39ef005e068081c8302adb2dcd6bdf15592081a523e
+New Hash: 000c6c2cfebcbe94c14691c156b3d03fd4aa7fadd0f9a83d0f528c8abd9fc8cb
+----------------------------------------
+Block Number: 39
+Sensitivity: Low
+Difficulty Level: 3
+Data: 87ea2ae44f1fa3472e27d2cb053d44fe91260e64ec697f795080efaf0d56d962
+Nonce: 12007
+Previous Hash: 000c6c2cfebcbe94c14691c156b3d03fd4aa7fadd0f9a83d0f528c8abd9fc8cb
+New Hash: 0004836a32bfdbda2c59666fb5b98ea370ef814e8754e6ffd3c66bdbe36a672c
+----------------------------------------
+Block Number: 40
+Sensitivity: Low
+Difficulty Level: 3
+Data: 614dedcb342b236cdf5ea259aee0229440550fc3f87322252ce951f3d39d8017
+Nonce: 3458
+Previous Hash: 0004836a32bfdbda2c59666fb5b98ea370ef814e8754e6ffd3c66bdbe36a672c
+New Hash: 00035deddf3ceb349168e3c267c97ad4e1cad1976efd65f77fcf0d8af7620645
+----------------------------------------
+Block Number: 41
+Sensitivity: High
+Difficulty Level: 5
+Data: f4a5156a03314c678457b7e0550bd0c230e61533b9ff753fc4066bf91a33d207
+Nonce: 1186977
+Previous Hash: 00035deddf3ceb349168e3c267c97ad4e1cad1976efd65f77fcf0d8af7620645
+New Hash: 00000b2cfa8bd96b2e2aed47a971f55b0e2480c2d2640c5074b8db0181394b1d
+----------------------------------------
+Block Number: 42
+Sensitivity: High
+Difficulty Level: 5
+Data: 04df4caf810251cdd28172d650cbf5167e23eacc9895a6361e251597ccb1d87e
+Nonce: 201449
+Previous Hash: 00000b2cfa8bd96b2e2aed47a971f55b0e2480c2d2640c5074b8db0181394b1d
+New Hash: 000005a8b66abf79edd0a33f311c3406aef493c5a5d34dbe85529f045dbae856
+----------------------------------------
+Block Number: 43
+Sensitivity: High
+Difficulty Level: 5
+Data: a6e70e934a22a7ef697dca435aa920ee861e0fae2cc7ffff62745891b8c19394
+Nonce: 768811
+Previous Hash: 000005a8b66abf79edd0a33f311c3406aef493c5a5d34dbe85529f045dbae856
+New Hash: 0000045fb6e8dd89074ccc44edb688856aa5b1543769ec01510640c305f090bf
+----------------------------------------
+Block Number: 44
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 123ed8bfcc54c826b288dc196abac84bd91ad65858e2e2965977edb00112ee3e
+Nonce: 48919
+Previous Hash: 0000045fb6e8dd89074ccc44edb688856aa5b1543769ec01510640c305f090bf
+New Hash: 00009356dccebb611f5027e07db59a7a6c434799988d51763424952e0e529da1
+----------------------------------------
+Block Number: 45
+Sensitivity: Low
+Difficulty Level: 3
+Data: 309f0b03dd1cb3842aa8a4f18500f975ae98878d93ac4b74521cf25105d2d29e
+Nonce: 1085
+Previous Hash: 00009356dccebb611f5027e07db59a7a6c434799988d51763424952e0e529da1
+New Hash: 000f8bb31e80472ebd4c532e61ea0c3e3cf7b73cb75cf095cd0efe7cfd09e3fa
+----------------------------------------
+Block Number: 46
+Sensitivity: Low
+Difficulty Level: 3
+Data: 56d99968fdab277d4ac4f1acaf3f49e172cf4e62b17217ce9d484535ff964950
+Nonce: 843
+Previous Hash: 000f8bb31e80472ebd4c532e61ea0c3e3cf7b73cb75cf095cd0efe7cfd09e3fa
+New Hash: 0000f99646cafda94c927705c5c3c66bebd8c5aebd97d7add39af1d21767fe6f
+----------------------------------------
+Block Number: 47
+Sensitivity: Low
+Difficulty Level: 3
+Data: 4e82d471543a59ffce70245b048f44a38beed238e7e90342e103596a949480e7
+Nonce: 6907
+Previous Hash: 0000f99646cafda94c927705c5c3c66bebd8c5aebd97d7add39af1d21767fe6f
+New Hash: 000f1ff78265ed850aacc46f3b8390de1d1dd96dd8d171abe78abc4a2deec10e
+----------------------------------------
+Block Number: 48
+Sensitivity: High
+Difficulty Level: 5
+Data: 4261bf05ac9727e2d5c77965039c9c8d2704fbb4d8331cc3797d15411aeffaad
+Nonce: 69186
+Previous Hash: 000f1ff78265ed850aacc46f3b8390de1d1dd96dd8d171abe78abc4a2deec10e
+New Hash: 00000aef7ded812cedb0c667d9a0ef2da74dd19003228c12e9d8015f225d3591
+----------------------------------------
+Block Number: 49
+Sensitivity: High
+Difficulty Level: 5
+Data: 996586ee90b210c20b97f29eff94af270bd28004c398997fb4ef6e9b88aa0eb9
+Nonce: 1962895
+Previous Hash: 00000aef7ded812cedb0c667d9a0ef2da74dd19003228c12e9d8015f225d3591
+New Hash: 000007b6741a50d934edfb9ecc395cb950518f0f70f9a982f04b4583119bd376
+----------------------------------------
+Block Number: 50
+Sensitivity: Low
+Difficulty Level: 3
+Data: b137239c5752e976d4b60c2f567e8a0b08d12735e9e8bdc40abc85ceef27c7f8
+Nonce: 1764
+Previous Hash: 000007b6741a50d934edfb9ecc395cb950518f0f70f9a982f04b4583119bd376
+New Hash: 000bae18e342dfdd9c0757f73626478936fd7289334a112beccb6fe38eec6dfc
+----------------------------------------
+Block Number: 51
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 30b23cf5279deee05abe6fa97b57a63d43f54e93885dd8e354f0a8b3049cebb0
+Nonce: 3888
+Previous Hash: 000bae18e342dfdd9c0757f73626478936fd7289334a112beccb6fe38eec6dfc
+New Hash: 000087bd250d22f1dd8da69650e976bd7b21e79b6db14a6d22dc44f0484436ac
+----------------------------------------
+Block Number: 52
+Sensitivity: Low
+Difficulty Level: 3
+Data: ccdf38ae7c5cef130bc53291826a6a29dad92aa45dd4d5055b979d2469f06740
+Nonce: 775
+Previous Hash: 000087bd250d22f1dd8da69650e976bd7b21e79b6db14a6d22dc44f0484436ac
+New Hash: 0001875a48ad6d5581bf2324b7574d7bf6868ae97c599b6d38d93e213c9e5354
+----------------------------------------
+Block Number: 53
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 2c1305b3b7b45b49dee906986f3599051902dd7a3ff7870b923b21157b9db9c5
+Nonce: 9061
+Previous Hash: 0001875a48ad6d5581bf2324b7574d7bf6868ae97c599b6d38d93e213c9e5354
+New Hash: 00006214a37a4f885270122e1e092a45626e75186c19a6ea6324e3262e799390
+----------------------------------------
+Block Number: 54
+Sensitivity: High
+Difficulty Level: 5
+Data: 74c830a9e70f0afb7cfce16820f9c6d69667e1cab00071b3e4927d40f751ebc7
+Nonce: 625259
+Previous Hash: 00006214a37a4f885270122e1e092a45626e75186c19a6ea6324e3262e799390
+New Hash: 00000cc1777d2836bfd1f4e9add49e292635e467043edb8283a36ad4aa2eb0e3
+----------------------------------------
+Block Number: 55
+Sensitivity: Low
+Difficulty Level: 3
+Data: b837d60fd010d5bbd58d005b425b8002e227279c5e076ee10b10368f789fa900
+Nonce: 2962
+Previous Hash: 00000cc1777d2836bfd1f4e9add49e292635e467043edb8283a36ad4aa2eb0e3
+New Hash: 0004c38c95de630b6e872bf7f25481aeee731d06a41983535e8ccc10ce74583f
+----------------------------------------
+Block Number: 56
+Sensitivity: Low
+Difficulty Level: 3
+Data: d7aa0d574030764f63bd9321ae056ed341536d3e8e349e9e9a446e048ff6f419
+Nonce: 595
+Previous Hash: 0004c38c95de630b6e872bf7f25481aeee731d06a41983535e8ccc10ce74583f
+New Hash: 000a4a3bd79bc56997c60c54cfc37e0c505aeda973c28936aa2d66bb4f2d88a6
+----------------------------------------
+Block Number: 57
+Sensitivity: Low
+Difficulty Level: 3
+Data: 28ce9af940e2a7c2693ffbaafcd8ca4f60f6acc76740029888b723cc339d0b31
+Nonce: 2350
+Previous Hash: 000a4a3bd79bc56997c60c54cfc37e0c505aeda973c28936aa2d66bb4f2d88a6
+New Hash: 00012fb776224c89dcc52ebdbdb5c2ed704181546780070ff8654348e01c90b8
+----------------------------------------
+Block Number: 58
+Sensitivity: High
+Difficulty Level: 5
+Data: 20f85ab9841265efcaf6f708d0f9a1da6ce2d5d90cfa83f5f39fb89b2ec4f9d7
+Nonce: 394639
+Previous Hash: 00012fb776224c89dcc52ebdbdb5c2ed704181546780070ff8654348e01c90b8
+New Hash: 00000aa54b1ceba32065c20ffc9f69c8008211e14d6a54cba9446968bc213275
+----------------------------------------
+Block Number: 59
+Sensitivity: Low
+Difficulty Level: 3
+Data: 44bb4469e949f536e0be5c5d6373b11bc5927c6aad841095789f3d85f6e81168
+Nonce: 895
+Previous Hash: 00000aa54b1ceba32065c20ffc9f69c8008211e14d6a54cba9446968bc213275
+New Hash: 000094b5f8d10c3cc9de8c380e90dbf621a95b78b5ee142c23048015eab01eff
+----------------------------------------
+Block Number: 60
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0e296f1d38af879831391f25328e162a159e8911800a8b54b8d5a1dbf1d32ffb
+Nonce: 31223
+Previous Hash: 000094b5f8d10c3cc9de8c380e90dbf621a95b78b5ee142c23048015eab01eff
+New Hash: 00001799c07725f22240e29af969a79afbe69f765e7bbd91efb1f83c825bf917
+----------------------------------------
+Block Number: 61
+Sensitivity: High
+Difficulty Level: 5
+Data: a55a1c469fe8b86b9258c95ec02f6263923fc910a13f83abd909d6390e0a4c5c
+Nonce: 210831
+Previous Hash: 00001799c07725f22240e29af969a79afbe69f765e7bbd91efb1f83c825bf917
+New Hash: 000002b0fca26a92ed0d009bf594c9588bdb02f33fba259aea10b96923c83690
+----------------------------------------
+Block Number: 62
+Sensitivity: High
+Difficulty Level: 5
+Data: 74049f01655ea3db7ec1f0a7e9d0f1f0e4a2198bf92012fbce7e7835f0c19784
+Nonce: 211024
+Previous Hash: 000002b0fca26a92ed0d009bf594c9588bdb02f33fba259aea10b96923c83690
+New Hash: 000003000c25947dff4e7a0984c71f63029f7fa469beb3a531a97c46b2241009
+----------------------------------------
+Block Number: 63
+Sensitivity: High
+Difficulty Level: 5
+Data: 145b73dcf364ac78a6f623c39f714a8afd9e34a59e0f6eb003b93ab7604a8298
+Nonce: 404540
+Previous Hash: 000003000c25947dff4e7a0984c71f63029f7fa469beb3a531a97c46b2241009
+New Hash: 00000754aa5d8cd2b079822b86777cb5efd5efab92f32673a693a516f812536d
+----------------------------------------
+Block Number: 64
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 75fe4c371b8bf9b8fea7b9ca27cd16bb6392efc33a32b642f8fd0f9c10a13411
+Nonce: 13624
+Previous Hash: 00000754aa5d8cd2b079822b86777cb5efd5efab92f32673a693a516f812536d
+New Hash: 00002582c56ca51d9e8c10ca70e8dd1f19b181602eeb40c6fadae0bd66d37c8e
+----------------------------------------
+Block Number: 65
+Sensitivity: High
+Difficulty Level: 5
+Data: e15f99b7359cecdf042c859ae2e975e97fb790f101eb724f3376a01e8a214ba6
+Nonce: 721572
+Previous Hash: 00002582c56ca51d9e8c10ca70e8dd1f19b181602eeb40c6fadae0bd66d37c8e
+New Hash: 00000f8d23d4ae72617d526e61c54890d7c9b8312c11cfb62860cd771f4afa79
+----------------------------------------
+Block Number: 66
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0b2a09dec642b9d29c8cb25630b72bfeb6167695ebadc1363ea511398119eb21
+Nonce: 158233
+Previous Hash: 00000f8d23d4ae72617d526e61c54890d7c9b8312c11cfb62860cd771f4afa79
+New Hash: 00002b9b3eae28a1765c273687639e5aa5932c2980bb2f093d61898b468a6680
+----------------------------------------
+Block Number: 67
+Sensitivity: Low
+Difficulty Level: 3
+Data: fedc5032e932ca17a20dac11bc1a76c7e6447338f338a8c1ea7967be1ac01bcf
+Nonce: 2308
+Previous Hash: 00002b9b3eae28a1765c273687639e5aa5932c2980bb2f093d61898b468a6680
+New Hash: 00059216236690e552ed0cf7c01562e603371fd800e14cc66dc30f60c41563ff
+----------------------------------------
+Block Number: 68
+Sensitivity: Low
+Difficulty Level: 3
+Data: 76ed15d55a97c78a1f7dcc1b8d4f9c1e6bd3fab5844d95f2fcc697a45c6946fc
+Nonce: 8028
+Previous Hash: 00059216236690e552ed0cf7c01562e603371fd800e14cc66dc30f60c41563ff
+New Hash: 000edc125478be20483c70da17c1367504f75d60f4895f7714b9a1e4090e1e17
+----------------------------------------
+Block Number: 69
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 9739d581e62dd391993d0d2a81b63f2e3acef1c62dd0eb3a583294b0df989559
+Nonce: 8920
+Previous Hash: 000edc125478be20483c70da17c1367504f75d60f4895f7714b9a1e4090e1e17
+New Hash: 0000d896807bf3b23ce482ca78b9a103209127dbb817d929a1f238e91fac655c
+----------------------------------------
+Block Number: 70
+Sensitivity: Low
+Difficulty Level: 3
+Data: ba7da0b70858f5fde8aecb43b73c7cbc5fad874f1414b7a58a403f13fad9b029
+Nonce: 5560
+Previous Hash: 0000d896807bf3b23ce482ca78b9a103209127dbb817d929a1f238e91fac655c
+New Hash: 000a223e0917e71ff2eafbedd56fb90c42a96f0bc60840d1588830d324504048
+----------------------------------------
+Block Number: 71
+Sensitivity: High
+Difficulty Level: 5
+Data: 4b5fffbe6cf638d8c1fac6cc7f69bdce6a5870f2dd66e68b82e08a03a125d6aa
+Nonce: 46795
+Previous Hash: 000a223e0917e71ff2eafbedd56fb90c42a96f0bc60840d1588830d324504048
+New Hash: 00000262a5ae76dc8cac70dcd49ad50d85643c2c1d2210ff55dffc51635f2595
+----------------------------------------
+Block Number: 72
+Sensitivity: High
+Difficulty Level: 5
+Data: fb07078762e5b36825b6e3c429b21c7bdef9d1eaec494123d69c847c5d81782e
+Nonce: 20857
+Previous Hash: 00000262a5ae76dc8cac70dcd49ad50d85643c2c1d2210ff55dffc51635f2595
+New Hash: 0000078ca8138513e8002d2c0a254183a1a36bb856581d927c302d94256f4e59
+----------------------------------------
+Block Number: 73
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0ed801a58233909f9dcaf4d03d1de2f6f70425c44fa424b9284175991a21a20b
+Nonce: 40462
+Previous Hash: 0000078ca8138513e8002d2c0a254183a1a36bb856581d927c302d94256f4e59
+New Hash: 0000e8006713c69e9f4a29531a745a278d07d832896118a8d72fc65092ef6f58
+----------------------------------------
+Block Number: 74
+Sensitivity: High
+Difficulty Level: 5
+Data: 61ceb62d57dc8f17e205bf83c575fd852f716c62f6240ba85912c17d032f27ac
+Nonce: 1625586
+Previous Hash: 0000e8006713c69e9f4a29531a745a278d07d832896118a8d72fc65092ef6f58
+New Hash: 00000acf1b726606c8c465a6bded2f3df8bdb6ba61a754a4ca2abc88390628bd
+----------------------------------------
+Block Number: 75
+Sensitivity: High
+Difficulty Level: 5
+Data: cc71373755a35c192ec52a7a8c3f634597955456235af85951cb8bb1bdb354ed
+Nonce: 268297
+Previous Hash: 00000acf1b726606c8c465a6bded2f3df8bdb6ba61a754a4ca2abc88390628bd
+New Hash: 00000c04db4f947bd2b717af5868244d0eb58c6e859d1a46eb430fe99d4a57d5
+----------------------------------------
+Block Number: 76
+Sensitivity: Low
+Difficulty Level: 3
+Data: ce271ad5bc65751d2b30d47579feaa2556d6a460898600fe70418e92e147d84b
+Nonce: 2
+Previous Hash: 00000c04db4f947bd2b717af5868244d0eb58c6e859d1a46eb430fe99d4a57d5
+New Hash: 000903c9bedcc47755e6b7e8227ca04f52c3b8276ed47a0e6ceaf507cfdf70df
+----------------------------------------
+Block Number: 77
+Sensitivity: Medium
+Difficulty Level: 4
+Data: e20c0fa3927ad42275218cda54c951318c4a9e3e9ffb07db43965d92ac021b88
+Nonce: 22437
+Previous Hash: 000903c9bedcc47755e6b7e8227ca04f52c3b8276ed47a0e6ceaf507cfdf70df
+New Hash: 00008886006c7769fe7539f78238b50a0d6abefb782e85a470b6f0e988893728
+----------------------------------------
+Block Number: 78
+Sensitivity: Medium
+Difficulty Level: 4
+Data: abd1d7e9f855072d82651e8d4161c92ef82e238b0a7a2f2c2dc67e1d0f88ff24
+Nonce: 10836
+Previous Hash: 00008886006c7769fe7539f78238b50a0d6abefb782e85a470b6f0e988893728
+New Hash: 0000a443254e22eaee57396d29934a719bb59adc87157000e4e71c407ae1eb21
+----------------------------------------
+Block Number: 79
+Sensitivity: Low
+Difficulty Level: 3
+Data: 73e80dbe9eda2c91109838e16f9626a209480a68ffbb3333eb9acef357fd549c
+Nonce: 991
+Previous Hash: 0000a443254e22eaee57396d29934a719bb59adc87157000e4e71c407ae1eb21
+New Hash: 0003949526520e0d8930599edfb44dae37d9e5d9a26b52ea06476f5f7bafb66b
+----------------------------------------
+Block Number: 80
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 8adcb23a047b373bbacf9b561da425491e6a8a861748a15443d66802f5ec07c3
+Nonce: 44043
+Previous Hash: 0003949526520e0d8930599edfb44dae37d9e5d9a26b52ea06476f5f7bafb66b
+New Hash: 0000e22b279ad8721c4daf9082d13690f562320c9f702e2d511632e4a25fa8d3
+----------------------------------------
+Block Number: 81
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 7126cccc69256796cc90ac3b7d8aac4f38133e30d54f5eff32f9994b8225622e
+Nonce: 137808
+Previous Hash: 0000e22b279ad8721c4daf9082d13690f562320c9f702e2d511632e4a25fa8d3
+New Hash: 0000efc7cdeb1945599f2f978daaa780a5aa5cc65f6cb452bc8913910ac6523f
+----------------------------------------
+Block Number: 82
+Sensitivity: High
+Difficulty Level: 5
+Data: 33faa3b4ce4d8fc7c11fe10d434ee21578d5ad46ff9163f8018478cd8bedce51
+Nonce: 96803
+Previous Hash: 0000efc7cdeb1945599f2f978daaa780a5aa5cc65f6cb452bc8913910ac6523f
+New Hash: 000001f36a72eafd577ab0183eb93082d036c8d09fc1ad8322526fdc76ff77c4
+----------------------------------------
+Block Number: 83
+Sensitivity: High
+Difficulty Level: 5
+Data: e7aeb08281f4a35c309a1cae1e2b1080b96c0cf7d5ab315d35439a587d894687
+Nonce: 453218
+Previous Hash: 000001f36a72eafd577ab0183eb93082d036c8d09fc1ad8322526fdc76ff77c4
+New Hash: 00000eae74cf07e5f95e1a2a61c9ecf01fdc6bf2043f5943b408df88c394f93d
+----------------------------------------
+Block Number: 84
+Sensitivity: High
+Difficulty Level: 5
+Data: 66d67b8e96192789bb4c82c93ec7632c48d994957ebeacefe8f1ffce07129261
+Nonce: 1217762
+Previous Hash: 00000eae74cf07e5f95e1a2a61c9ecf01fdc6bf2043f5943b408df88c394f93d
+New Hash: 00000c3784638bf414e71cf20909409016995b665527c0412edb4942ed8bcdb5
+----------------------------------------
+Block Number: 85
+Sensitivity: Low
+Difficulty Level: 3
+Data: 9c1f240efac32deb33e27fbe58872e6fdeeac31ca2de6bf1af5a4dd7b0cb9650
+Nonce: 5266
+Previous Hash: 00000c3784638bf414e71cf20909409016995b665527c0412edb4942ed8bcdb5
+New Hash: 000fb20864ed5d1dadf5db6608ce338a0b821835cd9578639b6109a8035680cc
+----------------------------------------
+Block Number: 86
+Sensitivity: Medium
+Difficulty Level: 4
+Data: e1a03359fe1302cbe15adb871f8acfd5648278cc9e850368077ea67e83c6d69d
+Nonce: 107918
+Previous Hash: 000fb20864ed5d1dadf5db6608ce338a0b821835cd9578639b6109a8035680cc
+New Hash: 0000e986b5b7ea0baccb32420ec6c8441163e5fd38fe72f53e8316c7cee890af
+----------------------------------------
+Block Number: 87
+Sensitivity: Medium
+Difficulty Level: 4
+Data: bbaff0e022d8f6033443a816779cad04a16f2031637489112946c9719f2fe206
+Nonce: 25056
+Previous Hash: 0000e986b5b7ea0baccb32420ec6c8441163e5fd38fe72f53e8316c7cee890af
+New Hash: 0000974eb0c8e6e9e52d854c995a2039d35a5791df07c58dc6b3737820e05fa1
+----------------------------------------
+Block Number: 88
+Sensitivity: High
+Difficulty Level: 5
+Data: cbaa0b16b0c2d381b32eda7adc6be6e5a7b455362c0a4d9ebb46f6731a2a8f83
+Nonce: 182999
+Previous Hash: 0000974eb0c8e6e9e52d854c995a2039d35a5791df07c58dc6b3737820e05fa1
+New Hash: 00000e6929d997eef83c578bee4bc7a37944b10bb73b423d29d0e82b77f9c8af
+----------------------------------------
+Block Number: 89
+Sensitivity: Medium
+Difficulty Level: 4
+Data: bbeb424791ec002f61bd7936b7d517b825ce437af5a5e4981fbd5cf58fa0acbf
+Nonce: 65723
+Previous Hash: 00000e6929d997eef83c578bee4bc7a37944b10bb73b423d29d0e82b77f9c8af
+New Hash: 0000b5af98c455781a623b3eb506fd8ae089f269d3fe6903755ba3cbb8e6da86
+----------------------------------------
+Block Number: 90
+Sensitivity: High
+Difficulty Level: 5
+Data: 145f9da55978db24723179fa7818fa45755bfc3bb148301746b7a946f2bf5a2a
+Nonce: 98585
+Previous Hash: 0000b5af98c455781a623b3eb506fd8ae089f269d3fe6903755ba3cbb8e6da86
+New Hash: 00000291ee076565249374b69b3f9ef4eacd47fbc8cacd6d50a72c2d1458e27b
+----------------------------------------
+Block Number: 91
+Sensitivity: Low
+Difficulty Level: 3
+Data: 0edf16009ab0dd0b9335e419722194751aa7fc328616f2a75874dc0f7b5f28b3
+Nonce: 6565
+Previous Hash: 00000291ee076565249374b69b3f9ef4eacd47fbc8cacd6d50a72c2d1458e27b
+New Hash: 0001b746ecfd7b23ddbec0fe7e9e53e46f1cbbd9f930bbc8a5a2cdebcc4899b5
+----------------------------------------
+Block Number: 92
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 3c4eeca194740aae05f3f02d3ea225d5cf2f3ad43f3bdb96fe1aa6ea1b59a11a
+Nonce: 293123
+Previous Hash: 0001b746ecfd7b23ddbec0fe7e9e53e46f1cbbd9f930bbc8a5a2cdebcc4899b5
+New Hash: 0000721c52a50ea6dafda1a00099f15b510f8753e8f8cc3319cfdea81c96a291
+----------------------------------------
+Block Number: 93
+Sensitivity: High
+Difficulty Level: 5
+Data: 4195c1144c7f6949757b94928af0dd15d2454cd088b72633ed91cd70413b3a50
+Nonce: 2810884
+Previous Hash: 0000721c52a50ea6dafda1a00099f15b510f8753e8f8cc3319cfdea81c96a291
+New Hash: 0000076f0209a278881d951f085c7fc9eeec7611ff11bf53433a97ee1499fd83
+----------------------------------------
+Block Number: 94
+Sensitivity: Low
+Difficulty Level: 3
+Data: b61580c8509002862a0589712454bb5ef5b5b97ba225ceac02af5a9691d8320e
+Nonce: 448
+Previous Hash: 0000076f0209a278881d951f085c7fc9eeec7611ff11bf53433a97ee1499fd83
+New Hash: 0008b82c9b57433062cb6888ba5e8d9a8263493859320d2492c7325a09b033bf
+----------------------------------------
+Block Number: 95
+Sensitivity: High
+Difficulty Level: 5
+Data: 576984539909675faa712beeb9a64b0db8e19b2e65452acccd5aa578f36ccf39
+Nonce: 1049252
+Previous Hash: 0008b82c9b57433062cb6888ba5e8d9a8263493859320d2492c7325a09b033bf
+New Hash: 00000242828f886e58cdf1ea28fd2a0f01324d10cbbb487ab7aff75c6759a258
+----------------------------------------
+Block Number: 96
+Sensitivity: High
+Difficulty Level: 5
+Data: 2cfad03bde4ba569c13d72c79b1953b09bd196d8e059961ebf099ee41835fd76
+Nonce: 343548
+Previous Hash: 00000242828f886e58cdf1ea28fd2a0f01324d10cbbb487ab7aff75c6759a258
+New Hash: 00000dd9f8854321008abe627db61f7956f1ef460a62ed0bea8e312920ba11ec
+----------------------------------------
+Block Number: 97
+Sensitivity: Low
+Difficulty Level: 3
+Data: 5134dfbc04fb048860e49b862e14edf20c5a3a44d27cdf3ace4d54a54e46efd1
+Nonce: 5676
+Previous Hash: 00000dd9f8854321008abe627db61f7956f1ef460a62ed0bea8e312920ba11ec
+New Hash: 000ada3d4ef4bd70973a1c3e7c5f5f603c1fe38bf9f64387aa2c0db966c3cd74
+----------------------------------------
+Block Number: 98
+Sensitivity: Low
+Difficulty Level: 3
+Data: c0927939242a45c0f4979c1868be177ce319053d8c835fefc8c2bb1b37e72329
+Nonce: 2861
+Previous Hash: 000ada3d4ef4bd70973a1c3e7c5f5f603c1fe38bf9f64387aa2c0db966c3cd74
+New Hash: 00007de4c4da029686d731757e36ff70a127f33e2db6294b25484c866dd5782c
+----------------------------------------
+Block Number: 99
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 92e7ae286a1286a367700a397048596ef80462b9b9f9f107ea3737916ecd622b
+Nonce: 45275
+Previous Hash: 00007de4c4da029686d731757e36ff70a127f33e2db6294b25484c866dd5782c
+New Hash: 0000fbd9b220bf81b192625b861ce0f158743facde7b02204507e161a487a0d6
+----------------------------------------
+Block Number: 100
+Sensitivity: Medium
+Difficulty Level: 4
+Data: fd6f6d27045df1809a382b244319ec8908b9bed1af5ce4de5482ef733bbbde82
+Nonce: 49985
+Previous Hash: 0000fbd9b220bf81b192625b861ce0f158743facde7b02204507e161a487a0d6
+New Hash: 000022a8083142219437946f67662b8152dfd18036bde5f2868430f261153933
+----------------------------------------
+Block Number: 1
+Sensitivity: Medium
+Difficulty Level: 4
+Data: fa64ab6127fefdb2f4e73d0fe0c72dbd04b05c73dde95b43417f9c130dc574aa
+Nonce: 4569
+Previous Hash: 0
+New Hash: 00003527aee7b3f89cab237098eab58fda79b22b93efd42cd21718d8297e8e7d
+----------------------------------------
+Block Number: 2
+Sensitivity: Low
+Difficulty Level: 3
+Data: b4b0a2c3fd0da7ad88da19f59599326f654c871f0f4911417f926633a793226c
+Nonce: 1993
+Previous Hash: 00003527aee7b3f89cab237098eab58fda79b22b93efd42cd21718d8297e8e7d
+New Hash: 000976c6e4c9570625d51343b201ba152ee9dd69357ac7f5a4a291e574d9f0c5
+----------------------------------------
+Block Number: 3
+Sensitivity: High
+Difficulty Level: 5
+Data: c319d0e54324dac7834e37353c44342b296121551780ed1ffafd4c0b6ac19e8a
+Nonce: 624500
+Previous Hash: 000976c6e4c9570625d51343b201ba152ee9dd69357ac7f5a4a291e574d9f0c5
+New Hash: 000008113d59d976bf5e73c31b944058f2ebbdea6502638e0c16c804dc3f5f6a
+----------------------------------------
+Block Number: 4
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 947048ab7e960e34a21b5b7b0a586dc06a98322795ede1457f7ef1bd5a77e38b
+Nonce: 239356
+Previous Hash: 000008113d59d976bf5e73c31b944058f2ebbdea6502638e0c16c804dc3f5f6a
+New Hash: 000059a659a17dabe242239e7c16109c61b0f240f26024771086e1f5514ebdd2
+----------------------------------------
+Block Number: 5
+Sensitivity: Low
+Difficulty Level: 3
+Data: 119156ac1128f48ae44828e491abe1325db494647c364250af88c07c67dd15c8
+Nonce: 5389
+Previous Hash: 000059a659a17dabe242239e7c16109c61b0f240f26024771086e1f5514ebdd2
+New Hash: 0002fbb4a14fee26b8e46514eb9eaa5af2d3ce9a0a4eb2f30500061208389732
+----------------------------------------
+Block Number: 6
+Sensitivity: Low
+Difficulty Level: 3
+Data: 3d2972447b4decf1b0c1ef9ce4add10e32dd2c6be7c89107021885f74189fd5d
+Nonce: 2100
+Previous Hash: 0002fbb4a14fee26b8e46514eb9eaa5af2d3ce9a0a4eb2f30500061208389732
+New Hash: 0009bac5e9e716051caa199ca53bc6de3d5467f55c977b8da431a02d5258c516
+----------------------------------------
+Block Number: 7
+Sensitivity: High
+Difficulty Level: 5
+Data: ed7705501d1709cc414b4b0765837ae246559b5c5d4bd3b3ef876a5db4125c84
+Nonce: 54437
+Previous Hash: 0009bac5e9e716051caa199ca53bc6de3d5467f55c977b8da431a02d5258c516
+New Hash: 000004bd62d1703b245bdbe75a5a31a8824bc5c6e97f35427b13703faf374efd
+----------------------------------------
+Block Number: 8
+Sensitivity: Medium
+Difficulty Level: 4
+Data: fb94e3bca410f83f697f4dd04e6c66fe2f20a70f580157e043d6468c91a8fb5f
+Nonce: 50205
+Previous Hash: 000004bd62d1703b245bdbe75a5a31a8824bc5c6e97f35427b13703faf374efd
+New Hash: 0000e0f8f419690cdfc8cc020b75d21a50bf8177bf1d7a5a1c1df7841ff0f3f0
+----------------------------------------
+Block Number: 9
+Sensitivity: Medium
+Difficulty Level: 4
+Data: a1c73aec673ddfff8850ada9244c88d094ceb6576e36092a544f81d1d75f64ba
+Nonce: 43658
+Previous Hash: 0000e0f8f419690cdfc8cc020b75d21a50bf8177bf1d7a5a1c1df7841ff0f3f0
+New Hash: 0000f916796019b708f1047a795fcdbec32c888a5487ef2a9018a6b728cdda1d
+----------------------------------------
+Block Number: 10
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 4f8903077ca4a0f14abdfbb4e5d70bc5307544b1202315e97db7d13bc7e17991
+Nonce: 69303
+Previous Hash: 0000f916796019b708f1047a795fcdbec32c888a5487ef2a9018a6b728cdda1d
+New Hash: 0000eaa585ff269f1b1d769c6da1a6002d6d3bb9fa377b53fde07ccffdb3ff47
+----------------------------------------
+Block Number: 11
+Sensitivity: Low
+Difficulty Level: 3
+Data: f68dd2023404d1efdadf2d9cb7757ac473fac262d3267f34f1457e493f878171
+Nonce: 2201
+Previous Hash: 0000eaa585ff269f1b1d769c6da1a6002d6d3bb9fa377b53fde07ccffdb3ff47
+New Hash: 0002c7584e731cb432dc1680024bbe3d3e4d9b8806d6ce563418ebc7550fba1e
+----------------------------------------
+Block Number: 12
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 59eb0f9ebe3b3a4944d0c32606348dda25ce9aa6c34db0334a355f05829dbc67
+Nonce: 54129
+Previous Hash: 0002c7584e731cb432dc1680024bbe3d3e4d9b8806d6ce563418ebc7550fba1e
+New Hash: 00005136817a3ebc9b8fc92a92415df0fe0853a89062cd5534919b1e1c29d0b7
+----------------------------------------
+Block Number: 13
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 9886ade77409f42a4cf88e0daa5e659e37f4de555dceeee940376e989402b06c
+Nonce: 67942
+Previous Hash: 00005136817a3ebc9b8fc92a92415df0fe0853a89062cd5534919b1e1c29d0b7
+New Hash: 0000d636391ada0be0183e8aaedda6542ff1117dae644267027e88ffa33e52e4
+----------------------------------------
+Block Number: 14
+Sensitivity: Low
+Difficulty Level: 3
+Data: 68df34079b718825c4c3d514bd9885b351ee07b6235ffdeebda87aba3a44845e
+Nonce: 6536
+Previous Hash: 0000d636391ada0be0183e8aaedda6542ff1117dae644267027e88ffa33e52e4
+New Hash: 000031aa2c062e8e3b7037a992e49eee212e0a46d3b3afe5f84d9fe196b4a570
+----------------------------------------
+Block Number: 15
+Sensitivity: Low
+Difficulty Level: 3
+Data: 372bbaa5e5c4e4097d647306ce7996be0bf0f964590e45d1b7ecbab38a876aea
+Nonce: 10735
+Previous Hash: 000031aa2c062e8e3b7037a992e49eee212e0a46d3b3afe5f84d9fe196b4a570
+New Hash: 0000416e9c16b01435614a2e01cd7cd8076c48c9970206a1a9385540fe864c8e
+----------------------------------------
+Block Number: 16
+Sensitivity: Low
+Difficulty Level: 3
+Data: ed69f69faccb4c8a1483db1e67fe8ee2696b46c773d1ca9ee1d04e0269a7a5d0
+Nonce: 169
+Previous Hash: 0000416e9c16b01435614a2e01cd7cd8076c48c9970206a1a9385540fe864c8e
+New Hash: 000acdb4bdcbf2af41246a8727b2699d0d33af727a19025c03fae75ba59cd7e8
+----------------------------------------
+Block Number: 17
+Sensitivity: High
+Difficulty Level: 5
+Data: 1d1e11a01b36225edece6a73322884873b092731e38b90436fe4d339f6c0938b
+Nonce: 2260666
+Previous Hash: 000acdb4bdcbf2af41246a8727b2699d0d33af727a19025c03fae75ba59cd7e8
+New Hash: 000008c44adab3652467c7536986d7440711c6f69c4a20ea41d9c702f78274d1
+----------------------------------------
+Block Number: 18
+Sensitivity: High
+Difficulty Level: 5
+Data: 410afc7d1da3ea1b79af1aef21aef225590ca4447d896b81ee5a5b8bf55d69fb
+Nonce: 468910
+Previous Hash: 000008c44adab3652467c7536986d7440711c6f69c4a20ea41d9c702f78274d1
+New Hash: 00000eb278345aeb01ff23ba0ab9c414664801a1c5f9d4a246aa9b5552d788b3
+----------------------------------------
+Block Number: 19
+Sensitivity: Low
+Difficulty Level: 3
+Data: b94de8fba965095bb9450fde6c54cc9d4f162354570220d23e12d9b66a4c7d80
+Nonce: 6750
+Previous Hash: 00000eb278345aeb01ff23ba0ab9c414664801a1c5f9d4a246aa9b5552d788b3
+New Hash: 00096e7a542b8a58b061b102b33e651a7bbfef8b6097970a8e5fef9ce5ca1244
+----------------------------------------
+Block Number: 20
+Sensitivity: High
+Difficulty Level: 5
+Data: ff1117bc6029ff62a23aa9f44b55f94f93de21cd8aac33319350e10c29a28ed6
+Nonce: 1175645
+Previous Hash: 00096e7a542b8a58b061b102b33e651a7bbfef8b6097970a8e5fef9ce5ca1244
+New Hash: 0000075dc793cc8965f3b35556355494ec1be68e12d207004327660b7ab9e7ef
+----------------------------------------
+Block Number: 21
+Sensitivity: High
+Difficulty Level: 5
+Data: e61b4b3b0ad6e809cc6c0d13146e305983e6b72156a59d86a7629f5336c2311f
+Nonce: 1428111
+Previous Hash: 0000075dc793cc8965f3b35556355494ec1be68e12d207004327660b7ab9e7ef
+New Hash: 000004c2e1aa561b941d5d16c84e8b47d5fbfa8839985cd65107c788ca3833f3
+----------------------------------------
+Block Number: 22
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 1317d821bfac0475424b3b8464de303f4451decb44488b28e5dccebead3e76aa
+Nonce: 1167
+Previous Hash: 000004c2e1aa561b941d5d16c84e8b47d5fbfa8839985cd65107c788ca3833f3
+New Hash: 00009a8aee0a86221eb0e820e08433a751a929730ae86d93a7ec676913725d61
+----------------------------------------
+Block Number: 23
+Sensitivity: Low
+Difficulty Level: 3
+Data: dcb02d25ac853f3ad8008694833a22938ca06c24e75ce1c59d5c21e18338d5ce
+Nonce: 592
+Previous Hash: 00009a8aee0a86221eb0e820e08433a751a929730ae86d93a7ec676913725d61
+New Hash: 00025460141f38be82e9040bec35dddad5b91edd2f3f94c83827a53461d8284a
+----------------------------------------
+Block Number: 24
+Sensitivity: Low
+Difficulty Level: 3
+Data: b65990c90cd99f4267d30748864571f75ea002e5825ce1960af59dcf4db4bc73
+Nonce: 1801
+Previous Hash: 00025460141f38be82e9040bec35dddad5b91edd2f3f94c83827a53461d8284a
+New Hash: 000f711ec648932d5e5ab3f6621985c1349dc44f466bc2a7374aeef1d918772b
+----------------------------------------
+Block Number: 25
+Sensitivity: Low
+Difficulty Level: 3
+Data: e6cee5ea511cd34f564cc64a576f157dae76915069a8aa2e4590d0cf8422ca8d
+Nonce: 2596
+Previous Hash: 000f711ec648932d5e5ab3f6621985c1349dc44f466bc2a7374aeef1d918772b
+New Hash: 000ed7d77dfe8ed1879993191ed96f1022c4c009dcdb1fe31a3ba50671d3b378
+----------------------------------------
+Block Number: 26
+Sensitivity: High
+Difficulty Level: 5
+Data: 11a719e8b131418f420e632ab5f0a84dba67fdf2f56aeaef4fcc476dd02e36eb
+Nonce: 513836
+Previous Hash: 000ed7d77dfe8ed1879993191ed96f1022c4c009dcdb1fe31a3ba50671d3b378
+New Hash: 00000c2905bf08fddbffb23deb51ee14fe836775fb5e5078a9de34773745d61f
+----------------------------------------
+Block Number: 27
+Sensitivity: Low
+Difficulty Level: 3
+Data: 39566a9ab8c63fb5c65b3786b1b5e430945f0135654734e7218fd75f3e8f4d9e
+Nonce: 9449
+Previous Hash: 00000c2905bf08fddbffb23deb51ee14fe836775fb5e5078a9de34773745d61f
+New Hash: 0003b71421632b04f71c5f8e26d8bd7d8a48c8d1c14d3e6901a8d2219fbcc060
+----------------------------------------
+Block Number: 28
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 9434f97520f72db58d7e0b67a31f6984b80be63e8ffb137a7aa908ba454c7ed7
+Nonce: 8240
+Previous Hash: 0003b71421632b04f71c5f8e26d8bd7d8a48c8d1c14d3e6901a8d2219fbcc060
+New Hash: 0000ea1482ade30bcb0371ea78545155c285d8ddf9b32ed4ff24bfd6c564eecc
+----------------------------------------
+Block Number: 29
+Sensitivity: Medium
+Difficulty Level: 4
+Data: c3623e704821568f7088bfce4c2a500a8a2790066f5751b9f229ea4a050e76cd
+Nonce: 148717
+Previous Hash: 0000ea1482ade30bcb0371ea78545155c285d8ddf9b32ed4ff24bfd6c564eecc
+New Hash: 0000b89fb2eb1d21865e17a195d19c7459f466d4d7b4ebed03b81c696353eb36
+----------------------------------------
+Block Number: 30
+Sensitivity: Low
+Difficulty Level: 3
+Data: 5eebca810bd4815622d54820268fe47a01be0df02d8b150ba83128f575a19610
+Nonce: 3469
+Previous Hash: 0000b89fb2eb1d21865e17a195d19c7459f466d4d7b4ebed03b81c696353eb36
+New Hash: 0006bc9493f2b1a60302e8b75eeb9566f442a4ab8788f4825d582deae5ef8fda
+----------------------------------------
+Block Number: 31
+Sensitivity: Low
+Difficulty Level: 3
+Data: 11492b0548d3cd67f6e0a2ae3a5ceba063792dae9db61c18f64038bd5562f414
+Nonce: 6932
+Previous Hash: 0006bc9493f2b1a60302e8b75eeb9566f442a4ab8788f4825d582deae5ef8fda
+New Hash: 0000dfdb996079a3d60c5c0eaf97dd4fc1c068713f8130c58a9638cd601db0c8
+----------------------------------------
+Block Number: 32
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 85ebce3dc61f3b6d54216b930535594e467bdc33807002b350fce4dfff7863b0
+Nonce: 79839
+Previous Hash: 0000dfdb996079a3d60c5c0eaf97dd4fc1c068713f8130c58a9638cd601db0c8
+New Hash: 00008d1bcfea1639a07b551d01227463a3de45eeeca42ecc87c6c1e96aabda65
+----------------------------------------
+Block Number: 33
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 926a2bc565119e8ecb7b22c26b6957d654ff2108a64b1ce6d5542887079cd53b
+Nonce: 123904
+Previous Hash: 00008d1bcfea1639a07b551d01227463a3de45eeeca42ecc87c6c1e96aabda65
+New Hash: 0000aa8e8ba8e040551756f48d1b919a02021bbea54199e8e0a5a2b8d8e1e476
+----------------------------------------
+Block Number: 34
+Sensitivity: High
+Difficulty Level: 5
+Data: 0492f6a1f7e729854406670e6e46072ec20815b287e7036598746c85d536ddbe
+Nonce: 407496
+Previous Hash: 0000aa8e8ba8e040551756f48d1b919a02021bbea54199e8e0a5a2b8d8e1e476
+New Hash: 00000d835f8d592518be69552c0d01fc1323bcfd73df15bf21a6897b64fb3e64
+----------------------------------------
+Block Number: 35
+Sensitivity: Low
+Difficulty Level: 3
+Data: c31de863bbf014fc071baecee7f9e6b16ae1c4d86977a51f34ca537ca3a25d0a
+Nonce: 2872
+Previous Hash: 00000d835f8d592518be69552c0d01fc1323bcfd73df15bf21a6897b64fb3e64
+New Hash: 000b82f713f8f07e766d7e41e81a53d25468c3b80bc1c28229d96d41fd1591c1
+----------------------------------------
+Block Number: 36
+Sensitivity: High
+Difficulty Level: 5
+Data: 77bcbe24e78f315da688d937d10864598ae4792ef204643fbd3f34677195978b
+Nonce: 3222797
+Previous Hash: 000b82f713f8f07e766d7e41e81a53d25468c3b80bc1c28229d96d41fd1591c1
+New Hash: 000006cf0c69e0d1e68011992870a3df0155bbaaca25fd6e09ec02b5fbff19d2
+----------------------------------------
+Block Number: 37
+Sensitivity: High
+Difficulty Level: 5
+Data: b4fc708b0ba8d0bd1882b64929c145d319c60b14c3a300be60679d462ae52255
+Nonce: 541759
+Previous Hash: 000006cf0c69e0d1e68011992870a3df0155bbaaca25fd6e09ec02b5fbff19d2
+New Hash: 00000fe10978375c6f1a3669a2545758d71cf282f18c21a447af1ae15c79dee6
+----------------------------------------
+Block Number: 38
+Sensitivity: High
+Difficulty Level: 5
+Data: 6dc71e224fab6fb33d5f9df2da445eaecc4b663f7f20ed9b3c8182fc8d6f24b2
+Nonce: 1769866
+Previous Hash: 00000fe10978375c6f1a3669a2545758d71cf282f18c21a447af1ae15c79dee6
+New Hash: 00000c7f091537356fe8194189ab9e119a4a6f3054c778a9541ca5a3e8c440b4
+----------------------------------------
+Block Number: 39
+Sensitivity: Medium
+Difficulty Level: 4
+Data: ea89ad60af549f8e6f8cefa305990e22124271f538a6ee7d1739637236ce2276
+Nonce: 6292
+Previous Hash: 00000c7f091537356fe8194189ab9e119a4a6f3054c778a9541ca5a3e8c440b4
+New Hash: 0000c6aaefeb9cd3eea92182f4cb69ee781032a38d2c63fbb071cd773138131a
+----------------------------------------
+Block Number: 40
+Sensitivity: Medium
+Difficulty Level: 4
+Data: e999b4fd59d0f7f11108627908865573aff84d789be06a53eae42be4fd7fc522
+Nonce: 17333
+Previous Hash: 0000c6aaefeb9cd3eea92182f4cb69ee781032a38d2c63fbb071cd773138131a
+New Hash: 000043a83f14d6f622cd703beea2c0a9d2c9c7a14927011eb2df0f4c3456b167
+----------------------------------------
+Block Number: 41
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 29124f4428930d03912a1ba3dcc620436bb9ad12b264f53c6cd941fc66c964ca
+Nonce: 268674
+Previous Hash: 000043a83f14d6f622cd703beea2c0a9d2c9c7a14927011eb2df0f4c3456b167
+New Hash: 00008c084d02583f5663d2e7a6fc91918306131a0f793ab29b325f6f85665e99
+----------------------------------------
+Block Number: 42
+Sensitivity: Low
+Difficulty Level: 3
+Data: f25fd3b72b93c0226895394bbaab346731534d1b69fd02982111019127fd913b
+Nonce: 1352
+Previous Hash: 00008c084d02583f5663d2e7a6fc91918306131a0f793ab29b325f6f85665e99
+New Hash: 000e29b6f1b7a232035bec6484c89ab59b68dfe2194f2e60f759ddd3d0e428c6
+----------------------------------------
+Block Number: 43
+Sensitivity: Low
+Difficulty Level: 3
+Data: 27aa62c22d39016b52982370ab0e6884e92e74d45ee932841b0808b5e8279ccb
+Nonce: 6504
+Previous Hash: 000e29b6f1b7a232035bec6484c89ab59b68dfe2194f2e60f759ddd3d0e428c6
+New Hash: 000f0b5f5b4c64efb8f70bb0b4b23ce7c725e352d0dffdc26e2dc894ec113ebb
+----------------------------------------
+Block Number: 44
+Sensitivity: Low
+Difficulty Level: 3
+Data: 132e2f334cfc53e31a1289513f1de86c03833cc86678831fd57b75efefaa53f1
+Nonce: 2590
+Previous Hash: 000f0b5f5b4c64efb8f70bb0b4b23ce7c725e352d0dffdc26e2dc894ec113ebb
+New Hash: 000ab03e2609bc46cbd721ed85fb03b624f6ba8ad271fa7a7b6c82fea1fd5426
+----------------------------------------
+Block Number: 45
+Sensitivity: High
+Difficulty Level: 5
+Data: d83bbe3fe8a5301d7b77d1665d8bf4434af8862622e954f15ba127e76672d7e5
+Nonce: 1031860
+Previous Hash: 000ab03e2609bc46cbd721ed85fb03b624f6ba8ad271fa7a7b6c82fea1fd5426
+New Hash: 00000fbee81e9ad7f941dea944db398c75109229b8033c6513a33b0850886ba7
+----------------------------------------
+Block Number: 46
+Sensitivity: Medium
+Difficulty Level: 4
+Data: e09f273e5307cf7ba7847508675643391068db803117c584c8de31228f29c424
+Nonce: 53855
+Previous Hash: 00000fbee81e9ad7f941dea944db398c75109229b8033c6513a33b0850886ba7
+New Hash: 00001bac0fa1660f19e1045a0d9bb990b66f465f3a406f03ff371bffc56435a5
+----------------------------------------
+Block Number: 47
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 9f0eed5c5b217753af4ae52af75a11f5b52178609472396bc51fb8ccf0d2372a
+Nonce: 105716
+Previous Hash: 00001bac0fa1660f19e1045a0d9bb990b66f465f3a406f03ff371bffc56435a5
+New Hash: 000067b889f5d7727fbe3a9d01e22118c73cb60899a302606647c27d3fc54de2
+----------------------------------------
+Block Number: 48
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 52f53adf2d1386e992386bed5c951e74dab0fa4b7e3d89c4ef5b6fee649d0aae
+Nonce: 126295
+Previous Hash: 000067b889f5d7727fbe3a9d01e22118c73cb60899a302606647c27d3fc54de2
+New Hash: 00001e60d9d7fd777bac242b4b0fb42da23ccb748f4b397f20a9fbc02a125efb
+----------------------------------------
+Block Number: 49
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 3e62e5cb7a9d7baf4953d06d8ad0db6fa148397da58277320e4eda81e9894138
+Nonce: 97016
+Previous Hash: 00001e60d9d7fd777bac242b4b0fb42da23ccb748f4b397f20a9fbc02a125efb
+New Hash: 00008ce3df8b15eb2648db5f112326ed0fd3a49d17aabd0097118f6e803e7fa5
+----------------------------------------
+Block Number: 50
+Sensitivity: Low
+Difficulty Level: 3
+Data: 9b4dd36870482ecee2d4f233ccc5f679e6e01da3cc62f1bc9e6d6392b1f84847
+Nonce: 3555
+Previous Hash: 00008ce3df8b15eb2648db5f112326ed0fd3a49d17aabd0097118f6e803e7fa5
+New Hash: 00032ce26df9063d57ac39c4a973543a8be5cc7aaa5fb0add055958dcafa7603
+----------------------------------------
+Block Number: 51
+Sensitivity: Low
+Difficulty Level: 3
+Data: 9aa62e33ae60d199702525832bcede970e1a711ba67086c273822ec2057a9d49
+Nonce: 7911
+Previous Hash: 00032ce26df9063d57ac39c4a973543a8be5cc7aaa5fb0add055958dcafa7603
+New Hash: 000fd0e203509f0b856f299136b1a7634a7e7c9cd272d12ad741c23f4c24d087
+----------------------------------------
+Block Number: 52
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 1ce9c208df8b8ab5702087ebad81cfe63c7a5fbfb7393e0eed9ad980ab38e0d5
+Nonce: 46578
+Previous Hash: 000fd0e203509f0b856f299136b1a7634a7e7c9cd272d12ad741c23f4c24d087
+New Hash: 0000ba69b69a3726a79568b692caf92b94b86c98182a6de1aabdeae8508ac7f8
+----------------------------------------
+Block Number: 53
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 70979509bd8a9c640d6ae301529bb72d9b65483d335bd2c788ca76f3afaf944e
+Nonce: 69546
+Previous Hash: 0000ba69b69a3726a79568b692caf92b94b86c98182a6de1aabdeae8508ac7f8
+New Hash: 0000fff37d58da4147ffe15e7c9cd2482bd818bc3bc775d18097b945cc13111b
+----------------------------------------
+Block Number: 54
+Sensitivity: Low
+Difficulty Level: 3
+Data: 1397acd86e1eb28f14f882f8583bc8c3e782c9eae6e713c17e8ab5092d0e65b1
+Nonce: 7769
+Previous Hash: 0000fff37d58da4147ffe15e7c9cd2482bd818bc3bc775d18097b945cc13111b
+New Hash: 000311852537788e4486548004e661be7a3274a203980c34238f05d0adcf1525
+----------------------------------------
+Block Number: 55
+Sensitivity: Low
+Difficulty Level: 3
+Data: 9d7e616096cbf79879ac97c2c11b8ccbf5acc0adad0d3d059135f55e5ca36074
+Nonce: 5125
+Previous Hash: 000311852537788e4486548004e661be7a3274a203980c34238f05d0adcf1525
+New Hash: 0003d89f456f4b76ad6627e77c8ae59658597c0ddd7e89b2e8049c9ace12d484
+----------------------------------------
+Block Number: 56
+Sensitivity: Low
+Difficulty Level: 3
+Data: 31d50b013085957f8c780b85618c8a93ae71d6df284be3f51a0faad9e6270516
+Nonce: 2896
+Previous Hash: 0003d89f456f4b76ad6627e77c8ae59658597c0ddd7e89b2e8049c9ace12d484
+New Hash: 0003d65347eebb22ebecba418b8ca95ea7a68a6cd3f322cf2c4f53559a6a6bc9
+----------------------------------------
+Block Number: 57
+Sensitivity: Low
+Difficulty Level: 3
+Data: c9d17909fc606168a06bb1643a76c7c32ba349d1337bdd917452bc0eb6775e2a
+Nonce: 18872
+Previous Hash: 0003d65347eebb22ebecba418b8ca95ea7a68a6cd3f322cf2c4f53559a6a6bc9
+New Hash: 000553040165d43803d4cd4371dc7252967da911f8e5623d605b5b01aa88ba65
+----------------------------------------
+Block Number: 58
+Sensitivity: High
+Difficulty Level: 5
+Data: 9f630728edadacb9e4c73acad2cd8c5a328bdbc294020abe236639b6d5971526
+Nonce: 390618
+Previous Hash: 000553040165d43803d4cd4371dc7252967da911f8e5623d605b5b01aa88ba65
+New Hash: 000008a86cfe1d2be6cf754bb62dbe21f8ef2dabd9212ca2923655f911484678
+----------------------------------------
+Block Number: 59
+Sensitivity: Low
+Difficulty Level: 3
+Data: 1f052064bad31c8909b50ec9f418796445d84b82f40a74956abcffaf6ea10386
+Nonce: 5701
+Previous Hash: 000008a86cfe1d2be6cf754bb62dbe21f8ef2dabd9212ca2923655f911484678
+New Hash: 0005768f2597628711365d50b110495d970dcd1712f102be46fcbb828da8e115
+----------------------------------------
+Block Number: 60
+Sensitivity: High
+Difficulty Level: 5
+Data: 948695ea84a14bc152ff8364d68d2c25302fcb3d04751419e2b78de5138e7b51
+Nonce: 1624941
+Previous Hash: 0005768f2597628711365d50b110495d970dcd1712f102be46fcbb828da8e115
+New Hash: 00000f73c6e0172b1b2756f3b60525e06a2b073c2da7c71cc526d54d17165085
+----------------------------------------
+Block Number: 61
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 2745e8a1faf6d8dec329e4c75f731b72126321b7f8bf52b49b640474add9caac
+Nonce: 80743
+Previous Hash: 00000f73c6e0172b1b2756f3b60525e06a2b073c2da7c71cc526d54d17165085
+New Hash: 0000977a8bccb7ae734ec25ac5ea92f19bdd5426ded4616d7b14171b9d928622
+----------------------------------------
+Block Number: 62
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 871a999a678cc6e859d9e32151a78c88591fa352265b1b4e2dbed14ba0bf5c93
+Nonce: 63736
+Previous Hash: 0000977a8bccb7ae734ec25ac5ea92f19bdd5426ded4616d7b14171b9d928622
+New Hash: 0000e22b0d7a4c8d6b574774340ad13f18bad80e2665afdd98909910bcc8ec1d
+----------------------------------------
+Block Number: 63
+Sensitivity: Low
+Difficulty Level: 3
+Data: 0b46f57c8c6c1c81b8bc87aafc451a32b8ba2c2d681d3b532d4758a28d948d98
+Nonce: 7969
+Previous Hash: 0000e22b0d7a4c8d6b574774340ad13f18bad80e2665afdd98909910bcc8ec1d
+New Hash: 00017ac0a1a62ff2a83132196f68010774ab82db1e0d442120a36307f1a8e6f0
+----------------------------------------
+Block Number: 64
+Sensitivity: Low
+Difficulty Level: 3
+Data: b406c08cd9a808057e2ec45514e43195d960d2475c68f1814aefde99a3b35919
+Nonce: 7236
+Previous Hash: 00017ac0a1a62ff2a83132196f68010774ab82db1e0d442120a36307f1a8e6f0
+New Hash: 000b699ef45cbd09b129c9981e45734e16042ef8998d7449ffabc3e031f7bf59
+----------------------------------------
+Block Number: 65
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 2229564c975e3411129789c1100cfde90e81dc891b69acd2bc9a9866c6264df9
+Nonce: 12177
+Previous Hash: 000b699ef45cbd09b129c9981e45734e16042ef8998d7449ffabc3e031f7bf59
+New Hash: 0000221af58236863ef239d1ee1fd22e0da3bdbd4b17bc1541521df794be9c69
+----------------------------------------
+Block Number: 66
+Sensitivity: High
+Difficulty Level: 5
+Data: 619c1a4cc2d610ae98fda8c86202f8706ee307e8f27dc7d72e7906bfcfe84cb8
+Nonce: 692216
+Previous Hash: 0000221af58236863ef239d1ee1fd22e0da3bdbd4b17bc1541521df794be9c69
+New Hash: 00000c8d2dc7b1e3f9280dc7c533cbae749d2978fd40512e43c3cd035b631f8b
+----------------------------------------
+Block Number: 67
+Sensitivity: High
+Difficulty Level: 5
+Data: a04201773d39addb85ce7d8d1c582b11a0ee190f875b5ed41ac69fd2ad2c9517
+Nonce: 361959
+Previous Hash: 00000c8d2dc7b1e3f9280dc7c533cbae749d2978fd40512e43c3cd035b631f8b
+New Hash: 000007ce02fee3c01b0f598fbea7464598c04f3aa07d5324f5822367b514cd62
+----------------------------------------
+Block Number: 68
+Sensitivity: Low
+Difficulty Level: 3
+Data: 632fa3ba2bcb3d254f0dab7540417ad0210405036853266589a1cd560b45b187
+Nonce: 2724
+Previous Hash: 000007ce02fee3c01b0f598fbea7464598c04f3aa07d5324f5822367b514cd62
+New Hash: 00097818ffe6a5a18de76326fd01c0b32614b0ec4b4e76f40445f7e2abf74b84
+----------------------------------------
+Block Number: 69
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 756121eededc28c854af281f802211200fb2f10051247eb86a4f24760225e855
+Nonce: 10660
+Previous Hash: 00097818ffe6a5a18de76326fd01c0b32614b0ec4b4e76f40445f7e2abf74b84
+New Hash: 00005d2ad7d80c5a5306d9d3d3db6bd50295975b7cb13c926172291735b7cad6
+----------------------------------------
+Block Number: 70
+Sensitivity: Low
+Difficulty Level: 3
+Data: ccdd72a4f5986d791905403afc14e0ab10f6eccd1f6ec906ab0fe41ae1772f1c
+Nonce: 779
+Previous Hash: 00005d2ad7d80c5a5306d9d3d3db6bd50295975b7cb13c926172291735b7cad6
+New Hash: 000fddc694c427f95b55c3f7d1dfc0e4f4f0692562046a02e27d094ade14ba8f
+----------------------------------------
+Block Number: 71
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 4eae184afc2de88d9bbf64cfe3666c62cb3bf45abb44ecaeb694f7fdea0c0c70
+Nonce: 123008
+Previous Hash: 000fddc694c427f95b55c3f7d1dfc0e4f4f0692562046a02e27d094ade14ba8f
+New Hash: 0000d292a8c07c89ca69b8bcb971df7684679ab53ead5525d4ce28da805c7b8b
+----------------------------------------
+Block Number: 72
+Sensitivity: High
+Difficulty Level: 5
+Data: 258a22fd0c22d0269c6500bf1ab30a8170b225ced7ae49ea2fd2ec3725e81bc5
+Nonce: 549251
+Previous Hash: 0000d292a8c07c89ca69b8bcb971df7684679ab53ead5525d4ce28da805c7b8b
+New Hash: 00000b5662a9b813952b76f7834cd345884043e5d700c08dc2d9cb51717632dd
+----------------------------------------
+Block Number: 73
+Sensitivity: Low
+Difficulty Level: 3
+Data: 9463a8220933a8d42f53b82934490d47808d17cb0f84c3a5fe2ede62a4d79bc9
+Nonce: 4526
+Previous Hash: 00000b5662a9b813952b76f7834cd345884043e5d700c08dc2d9cb51717632dd
+New Hash: 000e193db06317919ac59e86daec5605c61224d10fc506d5ce18f4e240f16c99
+----------------------------------------
+Block Number: 74
+Sensitivity: Low
+Difficulty Level: 3
+Data: 42d03eccd42707fe6bf23a5b466726d2e2f03393e80503740e5b752ca2edd3c2
+Nonce: 5741
+Previous Hash: 000e193db06317919ac59e86daec5605c61224d10fc506d5ce18f4e240f16c99
+New Hash: 0009cbaacd427a94a61c5962532cc5b0b51da9c8db8a31527cff7c11245f9bb0
+----------------------------------------
+Block Number: 75
+Sensitivity: Medium
+Difficulty Level: 4
+Data: fddc8812bb6959d1546bcfca22a6837eff119028b87659afeda891cf5e4415cf
+Nonce: 15388
+Previous Hash: 0009cbaacd427a94a61c5962532cc5b0b51da9c8db8a31527cff7c11245f9bb0
+New Hash: 00004da8b9aacbe5f1230c2d45cf83b72823844021fb22aa735b4e2f63910a06
+----------------------------------------
+Block Number: 76
+Sensitivity: Low
+Difficulty Level: 3
+Data: c7b687541d8cd8f35cccf014be068831459cf70dc3492606bd4cb1c5588d23fc
+Nonce: 2576
+Previous Hash: 00004da8b9aacbe5f1230c2d45cf83b72823844021fb22aa735b4e2f63910a06
+New Hash: 00046246c27085a357bb8c76f78e548f0ccc8ff49935a64fa1583e16632a0f99
+----------------------------------------
+Block Number: 77
+Sensitivity: Low
+Difficulty Level: 3
+Data: b8999d8793f1ad0c79966c19304325507a354f6811780cf75ac86a0b51729bb6
+Nonce: 1349
+Previous Hash: 00046246c27085a357bb8c76f78e548f0ccc8ff49935a64fa1583e16632a0f99
+New Hash: 00079da4499dae4a6aa54a6d26cc7e7429b5f599f6936fc242ce9bc2f8c3d367
+----------------------------------------
+Block Number: 78
+Sensitivity: High
+Difficulty Level: 5
+Data: c1fec4e291e2d044f2238ffeae0c9fb214e19e3569aa90371a783490accec54e
+Nonce: 2303706
+Previous Hash: 00079da4499dae4a6aa54a6d26cc7e7429b5f599f6936fc242ce9bc2f8c3d367
+New Hash: 00000a517262c70762a32408c1c2c51274de200dcadd5f3d9ce7d8ad86660765
+----------------------------------------
+Block Number: 79
+Sensitivity: Low
+Difficulty Level: 3
+Data: 8290d19070e67153716ba19ab6ace866b38f428822f83bfbc9234a03d803e89d
+Nonce: 4551
+Previous Hash: 00000a517262c70762a32408c1c2c51274de200dcadd5f3d9ce7d8ad86660765
+New Hash: 000fd8a4f66eb00b11f36cf17c6e16dc8e3398c8de6f373c20bb91fa613da498
+----------------------------------------
+Block Number: 80
+Sensitivity: Low
+Difficulty Level: 3
+Data: 354ed5c0f1d77c16403a59f09fb7333350cc97d7098de23fae317fd16e142219
+Nonce: 3581
+Previous Hash: 000fd8a4f66eb00b11f36cf17c6e16dc8e3398c8de6f373c20bb91fa613da498
+New Hash: 0003a39f508766bbc543e43817106c5ef26ce042259587c311e4091ab1e38276
+----------------------------------------
+Block Number: 81
+Sensitivity: Low
+Difficulty Level: 3
+Data: 2d5af2f2cbaaa8f2e0c00bca3a8f1ce5d800f0795afab37873435e988cd65805
+Nonce: 4520
+Previous Hash: 0003a39f508766bbc543e43817106c5ef26ce042259587c311e4091ab1e38276
+New Hash: 0005e4bf63988d1709737156923b017e41fe5bbeffc707a52ccb99bcb836a434
+----------------------------------------
+Block Number: 82
+Sensitivity: Low
+Difficulty Level: 3
+Data: bac1ee665e8f3f89e9c91c19894736533c401d54e23d6b52276e5a3fecc2f275
+Nonce: 849
+Previous Hash: 0005e4bf63988d1709737156923b017e41fe5bbeffc707a52ccb99bcb836a434
+New Hash: 0000c17cb70fb4027b2357154a0181823adeb76f84c8276bcd9e4fd70314e68c
+----------------------------------------
+Block Number: 83
+Sensitivity: Medium
+Difficulty Level: 4
+Data: d015aff06f9cfbfb21cb724d7a3e449701a6383b8bbca8cf77f0c9b68e3e140e
+Nonce: 104288
+Previous Hash: 0000c17cb70fb4027b2357154a0181823adeb76f84c8276bcd9e4fd70314e68c
+New Hash: 0000b53b901b6de26d93de6221cf5e14f184b21573fb844cdafb58bdacd10281
+----------------------------------------
+Block Number: 84
+Sensitivity: Medium
+Difficulty Level: 4
+Data: d69698ecc4ff954f10474b884c4e70c1c3d2699239bc58f426ea017421c30835
+Nonce: 101130
+Previous Hash: 0000b53b901b6de26d93de6221cf5e14f184b21573fb844cdafb58bdacd10281
+New Hash: 00003e3d460cceb9dbf2820b5692cd9c2d5481ecbd95d97632af969a4d70c4c6
+----------------------------------------
+Block Number: 85
+Sensitivity: Low
+Difficulty Level: 3
+Data: a2a877520a8912da0679772cb5ca4f03efc31750d8f3dfa83c6f466ffd0ffc2c
+Nonce: 914
+Previous Hash: 00003e3d460cceb9dbf2820b5692cd9c2d5481ecbd95d97632af969a4d70c4c6
+New Hash: 000992b402e07df808ba05592dd9e7d7dac90c7756fbd06b9cfcda85c5de320d
+----------------------------------------
+Block Number: 86
+Sensitivity: High
+Difficulty Level: 5
+Data: 27d1f44f141e9565298aff9e518940756f9986bee659d9d984ff4b1172cc4577
+Nonce: 215289
+Previous Hash: 000992b402e07df808ba05592dd9e7d7dac90c7756fbd06b9cfcda85c5de320d
+New Hash: 000007e07e25420f2afbe6fecef8569f549d39694b568e4fb7c352462e4e4dd5
+----------------------------------------
+Block Number: 87
+Sensitivity: High
+Difficulty Level: 5
+Data: 206b92c95237d48dd6393d24619c4086dae17500caf603fe36ee99d0e622f458
+Nonce: 256859
+Previous Hash: 000007e07e25420f2afbe6fecef8569f549d39694b568e4fb7c352462e4e4dd5
+New Hash: 00000c52bd8233643cb8ea5a0d7f18aa5d685c14610d5dcc330e176088bc42d0
+----------------------------------------
+Block Number: 88
+Sensitivity: Medium
+Difficulty Level: 4
+Data: c88762036ac427860f202733bfcc681ac72b108933d8f66b277bb0a968165cf5
+Nonce: 100492
+Previous Hash: 00000c52bd8233643cb8ea5a0d7f18aa5d685c14610d5dcc330e176088bc42d0
+New Hash: 0000589bb6fc5b9cc68a131c28d184d82332e759ac60ca41c22b3a7b2202d90c
+----------------------------------------
+Block Number: 89
+Sensitivity: Low
+Difficulty Level: 3
+Data: 72b0257e8aebf87f06e3f9d871d3661bb85628d19d09b4fd87ba940fd62a90b8
+Nonce: 6146
+Previous Hash: 0000589bb6fc5b9cc68a131c28d184d82332e759ac60ca41c22b3a7b2202d90c
+New Hash: 000dfd50d0c613d89050e94c3d34cc850d57476729c2b733c93d57398553ab87
+----------------------------------------
+Block Number: 90
+Sensitivity: High
+Difficulty Level: 5
+Data: 747cda0a88169763dfd0319e04ad3440dc74f06ac44b61e086973da0d66bb848
+Nonce: 33199
+Previous Hash: 000dfd50d0c613d89050e94c3d34cc850d57476729c2b733c93d57398553ab87
+New Hash: 00000b90398639269560b5d91a6e16652c2d9aaf7745cfcf833db3b650ef122b
+----------------------------------------
+Block Number: 91
+Sensitivity: Low
+Difficulty Level: 3
+Data: 304feb355b2e812569d746cd6d9a54b8b35944132c9b0fe0b376ade5e9d5525d
+Nonce: 3175
+Previous Hash: 00000b90398639269560b5d91a6e16652c2d9aaf7745cfcf833db3b650ef122b
+New Hash: 000abfef7d2eb7a93acbd4c1f15664f6a5bcd5255b5718a989faaf89347c5a41
+----------------------------------------
+Block Number: 92
+Sensitivity: Low
+Difficulty Level: 3
+Data: 97c3b44ee7005632b3fd801e3868ae62235e1aa3b5e8e2bdab3846f2b4bc56df
+Nonce: 3771
+Previous Hash: 000abfef7d2eb7a93acbd4c1f15664f6a5bcd5255b5718a989faaf89347c5a41
+New Hash: 0008e07c2a6ae815f4bfbac76193bd53ef2c4132850b05ae2972cd3686faed1b
+----------------------------------------
+Block Number: 93
+Sensitivity: High
+Difficulty Level: 5
+Data: cdd302886fedc3ec67e75195a15b78aa9f4a25af0039726eb7fb380001a62ce8
+Nonce: 734055
+Previous Hash: 0008e07c2a6ae815f4bfbac76193bd53ef2c4132850b05ae2972cd3686faed1b
+New Hash: 00000a6f210bd94321965abf7fdce23ed14f5142d76cfe41fb98eb1c46bda6f5
+----------------------------------------
+Block Number: 94
+Sensitivity: Low
+Difficulty Level: 3
+Data: 49f093428cfb377144e8b782c882a5c10ffeeb6836160eab1d7909033cb5d1fa
+Nonce: 3239
+Previous Hash: 00000a6f210bd94321965abf7fdce23ed14f5142d76cfe41fb98eb1c46bda6f5
+New Hash: 0001c034a3c69d401563a951663158d82aa2286da44b34ff58f0b9722d651588
+----------------------------------------
+Block Number: 95
+Sensitivity: High
+Difficulty Level: 5
+Data: 5211bb4f87c1c24e192b9cb71c5e610ad7ad76a45392de1c94ea8a3f1df54809
+Nonce: 1065160
+Previous Hash: 0001c034a3c69d401563a951663158d82aa2286da44b34ff58f0b9722d651588
+New Hash: 00000827678e2cfa99b085b4fc9d4d05a18a8e1ea74744d9cf0f4e967144f207
+----------------------------------------
+Block Number: 96
+Sensitivity: Low
+Difficulty Level: 3
+Data: d4dba2834265fc5ed00d9b7aa05b9f06f65a4464d2dccb09fc4702b974c39d1c
+Nonce: 6189
+Previous Hash: 00000827678e2cfa99b085b4fc9d4d05a18a8e1ea74744d9cf0f4e967144f207
+New Hash: 000d8e281d765643de77bdde232de8c14eb165b319354fd991f51929d0fd27a1
+----------------------------------------
+Block Number: 97
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 9401529f5531750daf0560af05196c869675cca14e1392eb9e5b561b2c0e9f4d
+Nonce: 120793
+Previous Hash: 000d8e281d765643de77bdde232de8c14eb165b319354fd991f51929d0fd27a1
+New Hash: 0000c9fe55e751aa4212d4e4fa56115e3b11d7ed1f3ab7c96db922c5deeca96f
+----------------------------------------
+Block Number: 98
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 0efad46e72cf85fc41d84bfe7a61db6ad19b794d9df2934b0d86e774bbb26e10
+Nonce: 88196
+Previous Hash: 0000c9fe55e751aa4212d4e4fa56115e3b11d7ed1f3ab7c96db922c5deeca96f
+New Hash: 00009e4a0d8d8a87834c566b497aabe32c06a63056c42a66960011082003b7ad
+----------------------------------------
+Block Number: 99
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 9e71f9bf814f61cd01409a12cf84783b4cb76920909762a2d01eb71595f93891
+Nonce: 62397
+Previous Hash: 00009e4a0d8d8a87834c566b497aabe32c06a63056c42a66960011082003b7ad
+New Hash: 000067d16459041019c0c05480dc9f44dabacd30bc60188b36ebc71468ba1e68
+----------------------------------------
+Block Number: 100
+Sensitivity: Medium
+Difficulty Level: 4
+Data: 4341e387fb96c9cdd041e8f159e6bd3f3e8e3ee5eb1a6afa0f172e44ed165c9f
+Nonce: 45874
+Previous Hash: 000067d16459041019c0c05480dc9f44dabacd30bc60188b36ebc71468ba1e68
+New Hash: 000098d2d9a75b2de4dcbcdf7038b82926cddb024dfd55440b4e4ec07e1b359c
+----------------------------------------
